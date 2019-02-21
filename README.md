@@ -1,7 +1,8 @@
 # Horoscope-3.1
+![image](horoscope.png)
 
 ## Description
-> This skill will tell your zodiac sign on the basis of your date of birth and also some beneficial and interesting information about yourself.                                                 ![image](horoscope.png)
+> This skill will tell your zodiac sign on the basis of your date of birth and also some beneficial and interesting information about yourself.       
 
 Tell alexa about your date of birth in this format: "Date Month". for example- `3 December`.
 Then alexa will tell your zodiac sign.
@@ -25,9 +26,9 @@ Simply say `describe me`. Alexa will provide following information about you:
 - English (US)
 
 ## How to start?
+1. Enable the [skill](https://www.amazon.com/Mohit-arora-Horoscope-3-1/dp/B07DBS811V/ref=sr_1_1?ie=UTF8&qid=1550779139&sr=8-1&keywords=horoscope+3.1)
+2. Download [Amazon Alexa App](https://play.google.com/store/apps/details?id=com.amazon.dee.app&hl=en_IN)
+3. Login with Amazon account.
+4. Tap to middle icon and say `Alexa, open Game of Alphabets`
 
-
-
-
-
-Enable it [now](https://www.amazon.com/Mohit-arora-Horoscope-3-1/dp/B07DBS811V/ref=cm_cr_arp_d_product_top?ie=UTF8)!
+Enable it [now](https://www.amazon.com/Mohit-arora-Horoscope-3-1/dp/B07DBS811V/ref=sr_1_1?ie=UTF8&qid=1550779139&sr=8-1&keywords=horoscope+3.1)
