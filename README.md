@@ -26,9 +26,9 @@ Simply say `describe me`. Alexa will provide following information about you:
 - English (US)
 
 ## How to start?
-1. Enable the [skill](https://www.amazon.com/Mohit-arora-Horoscope-3-1/dp/B07DBS811V/ref=sr_1_1?ie=UTF8&qid=1550779139&sr=8-1&keywords=horoscope+3.1)
-2. Download [Amazon Alexa App](https://play.google.com/store/apps/details?id=com.amazon.dee.app&hl=en_IN)
+1. Enable the [skill](https://www.amazon.com/Mohit-arora-Horoscope-3-1/dp/B07DBS811V/ref=sr_1_1?ie=UTF8&qid=1550779139&sr=8-1&keywords=horoscope+3.1).
+2. Download [Amazon Alexa App](https://play.google.com/store/apps/details?id=com.amazon.dee.app&hl=en_IN).
 3. Login with Amazon account.
-4. Tap to middle icon and say `Alexa, open static horoscope`
+4. Tap to middle icon and say `Alexa, open static horoscope`.
 
 Enable it [now](https://www.amazon.com/Mohit-arora-Horoscope-3-1/dp/B07DBS811V/ref=sr_1_1?ie=UTF8&qid=1550779139&sr=8-1&keywords=horoscope+3.1)
