@@ -32,7 +32,7 @@ def onLaunch(launchRequest, session):
     
 
 def on_session_started(session_started_request, session):
-    """ Called when the session starts """
+    """ This function is called when the session starts """
 
     print("on_session_started requestId=" + session_started_request['requestId']
           + ", sessionId=" + session['sessionId'])
